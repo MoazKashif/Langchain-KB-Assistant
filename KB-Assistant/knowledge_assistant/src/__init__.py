@@ -1,0 +1,1 @@
+"""Knowledge Base Assistant package."""
